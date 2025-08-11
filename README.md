@@ -1,4 +1,4 @@
-## Привет, меня зовут Кирилл! 👋
+## <p align="center">Привет, меня зовут Кирилл! 💪</p>
 
 <p align="center">
   <a href="https://t.me/superutv">
