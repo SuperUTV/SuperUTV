@@ -5,7 +5,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/pandas-FFF?style=for-the-badge&logo=pandas)
+![Pandas](https://img.shields.io/badge/pandas-FFF?style=for-the-badge&logo=pandas&logoColor=150458)
 ![SciPy](https://img.shields.io/badge/SciPy-FFF?style=for-the-badge&logo=scipy)
 ![NumPy](https://img.shields.io/badge/numpy-FFF?style=for-the-badge&logo=numpy&logoColor=013243)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-FFF?style=for-the-badge&logo=scikit-learn)
@@ -16,18 +16,13 @@
 ![Redash](https://img.shields.io/badge/Redash-FFF?style=for-the-badge&logo=redash)
 ![Git](https://img.shields.io/badge/Git-FFF?style=for-the-badge&logo=git)
 
-
-
-
 </div>
-
-
 
 ## Контакты 👀
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/superutv)
-[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](kirill.petrov0103@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kirill.petrov0103@gmail.com)
 
 </div>
